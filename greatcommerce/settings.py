@@ -148,3 +148,12 @@ MESSAGE_TAGS = {
     messages.ERROR: "danger",
     
 } 
+
+# SMPT configuration
+
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = '076bei011.bhupendra@pcampus.edu.np'
+EMAIL_HOST_PASSWORD = 'rmgj axbf edtk hsvd'
+EMAIL_USE_TLS = True
+
